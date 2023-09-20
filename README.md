@@ -16,7 +16,8 @@ Browse certificates by skill:
 <img src="https://github.com/jusjag/certificates/blob/main/HackerRank%20Intermediate%20SQL.png?raw=true" width="400">
 <br><br>
 <b>SQL from basics Kickstarter Course</b> from <b>Code First Girls</b><br>
-8-week course ended with own project and live presentation. See my final project for this course HERE.<br>
+8-week course ended with own project and live presentation. <br>
+See my final project for this course <a href="https://github.com/jusjag/CodeFirstGirls_Formula1">HERE</a>.<br>
 <img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Kickstarter.png?raw=true" width="500">
 <br>
 
