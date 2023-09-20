@@ -4,6 +4,7 @@ I'm aware that many of you find online certificates, well, questionable. And I d
 However, I decided to show them to prove that I'm still learning and developing my skills to become better month by month.<br><br>
 Browse certificates by skill:
 * [SQL](#sql)
+* [Tableau](#tableau)
 * [Google Analytics 4](#google-analytics-4)
 <br><br>
 ## SQL
@@ -20,6 +21,10 @@ Browse certificates by skill:
 See my final project for this course <a href="https://github.com/jusjag/CodeFirstGirls_Formula1">HERE</a>.<br>
 <img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Kickstarter.png?raw=true" width="500">
 <br>
+## Tableau
+5 hour self-pace course from Simplilearn (<a href="https://www.simplilearn.com/learn-tableau-online-free-course-skillup?tag=tableau%20training">website</a>).<br>
+Skills in practice: see my project at <a href="https://public.tableau.com/app/profile/justyna5640/viz/RowerowyGdask2013-2023/RowerowyGdansk">Tableau Public</a> or go to my <a href="https://github.com/jusjag/RowerowyGdansk">GitHub project page</a> (this one in polish only).<br>
+<img src="https://github.com/jusjag/certificates/blob/main/SkillUp%20Tableau.png?raw=true" width="500">
 
 ## Google Analytics 4
 After finishing the Google & SGH Skills of Tomorrow course, I was considering turning into the web analytics path. Finally I decided to focus on SQL and Power BI, but the Google Analytics Certificate is still with me and I'm sure I'd be able to use this tool after a quick reminder.<br>
