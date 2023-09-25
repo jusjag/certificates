@@ -3,11 +3,17 @@ All of my course and training certificates are here so I won't spam my LinkedIn 
 I'm aware that many of you find online certificates, well, questionable. And I don't learn for certificates, I learn for the skills. <br>
 However, I decided to show them to prove that I'm still learning and developing my skills to become better month by month.<br><br>
 Browse certificates by skill:
+* [Data analysis](#data-analysis)
 * [SQL](#sql)
 * [Tableau](#tableau)
 * [Digital Marketing](#digital-marketing)
 * [Google Analytics 4](#google-analytics-4)
 <br><br>
+
+## Data analysis
+7-hour self paced course from IBM:<br>
+"This credential earner demonstrates knowledge of data analytics concepts, methodologies and applications of data science, and the tools and programming languages used in the data ecosystem. The individual has a conceptual understanding of how to clean, refine, and visualize data using IBM Watson Studio. The earner is aware of the job outlook in data and is familiar with the skills required for success in various roles in the domain."<br>
+<img src="https://github.com/jusjag/certificates/blob/main/IBM_data_fundamentals.png?raw=true" width="500">
 
 ## SQL
 <b>Databases for Developers: Foundations</b> from <b>Oracle Dev Gym</b> (<a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">website</a>)
