@@ -1,9 +1,10 @@
 # Certificates
 All of my course and training certificates are here so I won't spam my LinkedIn account.<br><br>
 I'm aware that many of you find online certificates, well, questionable. And I don't learn for certificates, I learn for the skills. <br>
-However, I decided to show them to prove that I'm still learning and developing my skills to become better month by month.<br><br>
-Browse certificates by skill:
+However, I decided to gather them here to show the effort I made and to prove that I'm still learning and developing my skills to become better and better.<br><br>
+## Browse certificates by skill:
 * [Data analysis](#data-analysis)
+* [Power Query](#power-query)
 * [SQL](#sql)
 * [Tableau](#tableau)
 * [Digital Marketing](#digital-marketing)
@@ -12,8 +13,16 @@ Browse certificates by skill:
 
 ## Data analysis
 7-hour self paced course from IBM:<br>
-"This credential earner demonstrates knowledge of data analytics concepts, methodologies and applications of data science, and the tools and programming languages used in the data ecosystem. The individual has a conceptual understanding of how to clean, refine, and visualize data using IBM Watson Studio. The earner is aware of the job outlook in data and is familiar with the skills required for success in various roles in the domain."<br>
+"This credential earner demonstrates knowledge of data analytics concepts, methodologies and applications of data science, and the tools and programming languages used in the data ecosystem. The individual has a conceptual understanding of how to clean, refine, and visualize data using IBM Watson Studio. The earner is aware of the job outlook in data and is familiar with the skills required for success in various roles in the domain."<br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/IBM_data_fundamentals.png?raw=true" width="500">
+
+## Power Query
+E-learning course covering the basics of Power Query. Click on image to enlarge. <br><br>
+<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery1.png" width="400">
+<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery2.png" width="400">
+<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery3.png" width="400">
+<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery4.png" width="400">
+<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery5.png" width="400">
 
 ## SQL
 <b>Databases for Developers: Foundations</b> from <b>Oracle Dev Gym</b> (<a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">website</a>)
