@@ -69,4 +69,4 @@ Setup a Google Analytics 4 property for a website or an app<br>
 Collect the data you need for your business and use the various reporting tools and features<br>
 Recognize key measurement features that can show the effectiveness of your online marketing efforts'</i><br>
 <a href="https://skillshop.accredible.com/profile/7a7b00cf-6453-45ec-8c85-869b62bbc318?name=jagielska" target="_blank">Find me on the Google Credential Holder Directory</a>.<br>
-<img src="https://raw.githubusercontent.com/jusjag/certificates/main/GA4_Certyfikat.jpg" width="500">
+<img src="https://raw.githubusercontent.com/jusjag/certificates/main/GA4_Certyfikat.png" width="500">
