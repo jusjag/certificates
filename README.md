@@ -1,6 +1,7 @@
 # Certificates :star2:
 All of my course and training certificates are here so I won't spam my LinkedIn account.<br><br>
-I'm aware that many of you find online certificates, well, questionable. And I don't learn for certificates, I learn for the skills. <br>
+I'm aware that many of you find online certificates, well, questionable. <br>
+And I learn for the skills, not the certificates. <br>
 However, I decided to gather them here to show the effort I made and prove that I'm still learning and developing my skills.<br><br>
 ## Browse certificates by skill:
 * [Data analysis](#data-analysis)
@@ -13,12 +14,15 @@ However, I decided to gather them here to show the effort I made and prove that 
 <br><br>
 
 ## Data analysis
-7-hour self paced course from IBM:<br>
+<b>IBM Skillsbud - Data Fundamentals / May 2023</b><br>
+Course type: self-paced 7 hour course;<br>
+Knowledge check: yes, theory tests after each chapter.<br><br>
 <i>'This credential earner demonstrates knowledge of data analytics concepts, methodologies and applications of data science, and the tools and programming languages used in the data ecosystem. The individual has a conceptual understanding of how to clean, refine, and visualize data using IBM Watson Studio. The earner is aware of the job outlook in data and is familiar with the skills required for success in various roles in the domain.'</i><br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/IBM_data_fundamentals.png?raw=true" width="500">
 
 ## Power Query
-E-learning course covering the basics of Power Query. Click on image to enlarge (polish version only). <br><br>
+<b>Polish entrepreneurship foundation / June-July 2023</b><br>
+Course type: e-learning course covering the basics of Power Query. Click on image to enlarge and read description (polish version only). <br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/PowerQuery1.png" width="400">
 <img src="https://github.com/jusjag/certificates/blob/main/PowerQuery2.png" width="400">
 <img src="https://github.com/jusjag/certificates/blob/main/PowerQuery3.png" width="400">
@@ -26,8 +30,10 @@ E-learning course covering the basics of Power Query. Click on image to enlarge 
 <img src="https://github.com/jusjag/certificates/blob/main/PowerQuery5.png" width="400">
 
 ## SQL
-<b>Databases for Developers: Foundations</b> from <b>Oracle Dev Gym</b> (<a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">website</a>)<br>
-Interactive course with practical exercises and quizzes to pass, covering all SQL basics. <br>
+<b>Oracle Databases for Developers: Foundations / March 2023</b> <br>
+SQL basics course (<a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">website</a>)<br>
+Course type: self-paced;<br>
+Knowledge check: Practical exercises & knowledge check quizzes.<br>
 <img src="https://github.com/jusjag/certificates/blob/main/Oracle%20SQL%20Dev%20Gym.png?raw=true" width="500">
 <br>
 <b>Skills Certification Test</b> from <b>Hackerrank</b> (<a href="https://www.hackerrank.com/skills-verification/sql_intermediate">website</a>)
