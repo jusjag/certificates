@@ -1,8 +1,9 @@
 # Certificates :star2:
 All of my course and training certificates are here so I won't spam my LinkedIn account.<br><br>
-I'm aware that many of you find online certificates, well, questionable. <br>
+I'm aware that many of you find certificates of self-paced online courses, well, questionable. <br>
 And I learn for the skills, not the certificates. <br>
-However, I decided to gather them here to show the effort I made and prove that I'm still learning and developing my skills.<br><br>
+However, I decided to gather them here to show the effort I made and prove that I'm still working hard and constantly improving my skills.<br><br>
+
 ## Browse certificates by skill:
 * [Data analysis](#data-analysis)
 * [Power Query](#power-query)
@@ -16,55 +17,60 @@ However, I decided to gather them here to show the effort I made and prove that 
 
 ## Data analysis
 <b>IBM Skillsbud - Data Fundamentals / May 2023</b><br>
-Course type: self-paced 7 hour course;<br>
+Self-paced online course (~7 hours).<br>
 Knowledge check: yes, theory tests after each chapter.<br><br>
 <i>'This credential earner demonstrates knowledge of data analytics concepts, methodologies and applications of data science, and the tools and programming languages used in the data ecosystem. The individual has a conceptual understanding of how to clean, refine, and visualize data using IBM Watson Studio. The earner is aware of the job outlook in data and is familiar with the skills required for success in various roles in the domain.'</i><br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/IBM_data_fundamentals.png?raw=true" width="500">
 
 ## Power Query
 <b>Polish entrepreneurship foundation / June-July 2023</b><br>
-Course type: e-learning course covering the basics of Power Query. Click on image to enlarge and read description (polish version only). <br>
-Knowledge check: no.<br><br>
-<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery1.png" width="400">
-<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery2.png" width="400">
-<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery3.png" width="400">
-<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery4.png" width="400">
-<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery5.png" width="400">
+E-learning course covering the basics of Power Query: importing data from various sources, creating custom columns, data transformation, appending and merging queries, pivoting and unpivoting data.<br>
+Click on image to enlarge (descriptions in polish only).<br><br>
+<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery1.png" width="300">
+<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery2.png" width="300">
+<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery3.png" width="300">
+<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery4.png" width="300">
+<img src="https://github.com/jusjag/certificates/blob/main/PowerQuery5.png" width="300">
 
 ## SQL
-<b>Oracle Databases for Developers: Foundations / March 2023</b> <br>
-SQL basics course (<a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">website</a>)<br>
-Course type: self-paced;<br>
-Knowledge check: Practical exercises & knowledge check quizzes.<br>
-<img src="https://github.com/jusjag/certificates/blob/main/Oracle%20SQL%20Dev%20Gym.png?raw=true" width="500">
-<br>
-<b>Skills Certification Test</b> from <b>Hackerrank</b> (<a href="https://www.hackerrank.com/skills-verification/sql_intermediate">website</a>)
-<br>
-<img src="https://github.com/jusjag/certificates/blob/main/HackerRank%20Basic%20SQL.png?raw=true" width="400">
-<img src="https://github.com/jusjag/certificates/blob/main/HackerRank%20Intermediate%20SQL.png?raw=true" width="400">
-<br><br>
-<b>SQL from basics Kickstarter Course</b> from <b>Code First Girls</b><br>
-8-week course ended with own project and live presentation. See my final project for this course <a href="https://github.com/jusjag/CodeFirstGirls_Formula1">HERE</a>.<br>
+<b>SQL from basics Kickstarter Course</b> from <b>Code First Girls / May - July 2023</b><br>
+8-week course of online classes covering all SQL basics, with own project including: inventing, creating and populating own database, running some analytic queries, creating a view, a function and stored procedure. Ended with mandatory project live presentation (in english).<br>
+See my final project for this course <a href="https://github.com/jusjag/CodeFirstGirls_Formula1">HERE</a>.<br>
 <img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Kickstarter.png?raw=true" width="500">
 <br><br>
 <b>Intro to Data Sprint & Challenge</b> from <b>Cofe Forst Girls</b><br>
-Another short course & project from Code First Girls. Much much more simple than the course above, but I used it as a quick seminder and another short project inspiration. The project I made was about segregation of garbage in a small company :) Maybe one day I'll put it here too.<br>
+Short online course & project from Code First Girls. Much much more simple than the course above, but I used it as a quick practice and project inspiration.<br> The course also included inventing, creating and populating own database, and running some basic analytic queries.
 <img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Sprint.png?raw=true" width="400">
 <img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Challenge.png?raw=true" width="400">
-
+<br>
+<br>
+<b>Hackerrank Skills Certification Test / July 2023 </b>(<a href="https://www.hackerrank.com/skills-verification/sql_intermediate">website</a>)<br>
+Basic: Practical, timed exam covering knowledge and practical use of simple queries, relationships, and aggregators.<br>
+Intermediate: Practical, timed exam covering knowledge and practical use of complex joins, unions, and sub-queries.<br>
+<img src="https://github.com/jusjag/certificates/blob/main/HackerRank%20Basic%20SQL.png?raw=true" width="400">
+<img src="https://github.com/jusjag/certificates/blob/main/HackerRank%20Intermediate%20SQL.png?raw=true" width="400">
+<br><br>
+<b>Oracle Databases for Developers: Foundations / March 2023</b> <br>
+Self-paced online course covering SQL basics. (<a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">website</a>)<br>
+<img src="https://github.com/jusjag/certificates/blob/main/Oracle%20SQL%20Dev%20Gym.png?raw=true" width="500">
+<br><br>
 ## Power BI & DAX
 <b>Knowledge Accelerators: From Excel to Power BI (Coursera) / October 2023</b><br>
 Course type: self-paced course including: data import and cleaning in Power Query, working in Power BI visualizations, creating and sharing Dashboards.<br>
 Knowledge check: Yes, 5 graded tests.<br>
 Did I say I learn for the skill, not for the certificate? Well, course is an exception :) In fact, I DIDN'T DO this course, but I used its graded assignments to check my knowledge and find fields for improvement. It turned out that I passed all of these assessments without much trouble.<br>
+<br>
+<img src="https://github.com/jusjag/certificates/blob/main/Coursera_excel_powerBI.png" width="400">
 
+<br><br>
 <b>Datacamp: Introduction to DAX / October 2023</b><br>
-Course type: Self-paced online course including DAX basics as calculated columns, measures, variables, date and time intelligence functions.<br>
-Knowledge check: yes, lot of practical excercises.<br><br>
+Self-paced online course including DAX basics as calculated columns, measures, variables, date and time intelligence functions.<br>
+<br>
+<img src="https://github.com/jusjag/certificates/blob/main/Datacamp_SQL_intro.png" width="400">
 
 ## Tableau
-Course type: 5 hour self-pace course from Simplilearn (<a href="https://www.simplilearn.com/learn-tableau-online-free-course-skillup?tag=tableau%20training">website</a>).<br>
-Knowledge check: some simple questions after each chapter.<br>
+5 hour self-pace course from Simplilearn (<a href="https://www.simplilearn.com/learn-tableau-online-free-course-skillup?tag=tableau%20training">website</a>).<br>
+Some simple questions after each chapter.<br>
 Skills in practice: see my project at <a href="https://public.tableau.com/app/profile/justyna5640/viz/RowerowyGdask2013-2023/RowerowyGdansk">Tableau Public</a> or go to my <a href="https://github.com/jusjag/RowerowyGdansk">GitHub project page</a> (this one is in polish only).<br>
 <img src="https://github.com/jusjag/certificates/blob/main/SkillUp%20Tableau.png?raw=true" width="500">
 <br>
