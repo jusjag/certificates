@@ -7,6 +7,7 @@ However, I decided to gather them here to show the effort I made and prove that 
 * [Data analysis](#data-analysis)
 * [Power Query](#power-query)
 * [SQL](#sql)
+* [Power BI / DAX](#power-bi-&-dax)
 * [Tableau](#tableau)
 * [BigQuery & Looker](#bigquery-and-looker)
 * [Digital Marketing](#digital-marketing)
@@ -22,7 +23,8 @@ Knowledge check: yes, theory tests after each chapter.<br><br>
 
 ## Power Query
 <b>Polish entrepreneurship foundation / June-July 2023</b><br>
-Course type: e-learning course covering the basics of Power Query. Click on image to enlarge and read description (polish version only). <br><br>
+Course type: e-learning course covering the basics of Power Query. Click on image to enlarge and read description (polish version only). <br>
+Knowledge check: no.<br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/PowerQuery1.png" width="400">
 <img src="https://github.com/jusjag/certificates/blob/main/PowerQuery2.png" width="400">
 <img src="https://github.com/jusjag/certificates/blob/main/PowerQuery3.png" width="400">
@@ -50,18 +52,28 @@ Another short course & project from Code First Girls. Much much more simple than
 <img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Sprint.png?raw=true" width="400">
 <img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Challenge.png?raw=true" width="400">
 
+## Power BI & DAX
+<b>Knowledge Accelerators: From Excel to Power BI (Coursera) / October 2023</b><br>
+Course type: self-paced course including: data import and cleaning in Power Query, working in Power BI visualizations, creating and sharing Dashboards.<br>
+Knowledge check: Yes, 5 graded tests.<br>
+Did I say I learn for the skill, not for the certificate? Well, course is an exception :) In fact, I DIDN'T DO this course, but I used its graded assignments to check my knowledge and find fields for improvement. It turned out that I passed all of these assessments without much trouble.<br>
+
+<b>Datacamp: Introduction to DAX / October 2023</b><br>
+Course type: Self-paced online course including DAX basics as calculated columns, measures, variables, date and time intelligence functions.<br>
+Knowledge check: yes, lot of practical excercises.<br><br>
+
 ## Tableau
-5 hour self-pace course from Simplilearn (<a href="https://www.simplilearn.com/learn-tableau-online-free-course-skillup?tag=tableau%20training">website</a>).<br>
+Course type: 5 hour self-pace course from Simplilearn (<a href="https://www.simplilearn.com/learn-tableau-online-free-course-skillup?tag=tableau%20training">website</a>).<br>
+Knowledge check: some simple questions after each chapter.<br>
 Skills in practice: see my project at <a href="https://public.tableau.com/app/profile/justyna5640/viz/RowerowyGdask2013-2023/RowerowyGdansk">Tableau Public</a> or go to my <a href="https://github.com/jusjag/RowerowyGdansk">GitHub project page</a> (this one is in polish only).<br>
 <img src="https://github.com/jusjag/certificates/blob/main/SkillUp%20Tableau.png?raw=true" width="500">
 <br>
 
 ## BigQuery and Looker
-Skill badges confirming the completion of practical labs & assessments at Google Cloud SKill Boost (<a href="https://www.cloudskillsboost.google/public_profiles/a7c82c30-b9e1-4c6c-bedd-3d682c04fe9">see my profile</a>).<br>
+Skill badges confirming the completion of practical labs & assessments at Google Cloud Skill Boost<br>
 <i>'(...) following basic features of BigQuery: write SQL queries, create and manage database tables in Cloud SQL, query public tables, and load sample data into BigQuery, troubleshoot common Syntax errors with the Query Validator, use Google Apps Script, create a chart in Google Sheets, and export that data to Google Slides, and create reports in Google Data Studio by connecting to BigQuery data.'</i><br>
 <i>'Fundamentals of data exploration in Looker including but not limited to dimensions and measures, filtering and pivoting, merging explores, and using advanced functions.'</i><br>
 <img src="https://github.com/jusjag/certificates/blob/main/BigQuery_looker.png?raw=true" width="500">
-
 
 ## Digital Marketing
 8 week / 50 hours training course in the area of digital marketing, ended by exam.<br>
