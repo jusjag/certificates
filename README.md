@@ -1,8 +1,9 @@
-# Certificates :star2:
-I'm aware that many of you find certificates of self-paced online courses, well, questionable. <br>
-And I learn for the skills, not the certificates. <br>
-However, I decided to gather them here to show the effort I made and prove that I'm still working hard and constantly improving my skills.<br><br>
-
+# Certificates
+Here you can find all certificates I earned. While I learn for the skill, not the certificate, I still want to gather them here to show the effort I made and prove my determination.<br> 
+I'm working hard on improving my skills, especially in the fields of SQL and Power BI / DAX.
+<br>
+My current goal is to prepare and to pass the Microsoft Power BI Data Analyst (PL-300) exam.<br>
+<br>
 ## Browse certificates by skill:
 * [Data analysis](#data-analysis)
 * [Power Query](#power-query)
@@ -15,6 +16,11 @@ However, I decided to gather them here to show the effort I made and prove that 
 <br><br>
 
 ## Data analysis
+<b>Datacamp certified Associate Data Analyst / October 2023</b><br>
+#1 Data Analysis certification by Forbes!<br>
+The certification required not only to pass timed theoritical exam, but also submit written report showing technical skills to clean data, build appropiate visializations and answer business problems.<br>
+<img src="https://github.com/jusjag/certificates/blob/main/Datacamp_DA.png?raw=true" width="500">
+<br><br>
 <b>IBM Skillsbud - Data Fundamentals / May 2023</b><br>
 Self-paced online course (~7 hours).<br>
 Knowledge check: yes, theory tests after each chapter.<br><br>
