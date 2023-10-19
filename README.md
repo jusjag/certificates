@@ -1,5 +1,4 @@
 # Certificates :star2:
-All of my course and training certificates are here so I won't spam my LinkedIn account.<br><br>
 I'm aware that many of you find certificates of self-paced online courses, well, questionable. <br>
 And I learn for the skills, not the certificates. <br>
 However, I decided to gather them here to show the effort I made and prove that I'm still working hard and constantly improving my skills.<br><br>
