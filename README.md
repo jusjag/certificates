@@ -29,7 +29,7 @@ Knowledge check: yes, theory tests after each chapter.<br>
 <img src="https://github.com/jusjag/certificates/blob/main/IBM_data_fundamentals.png?raw=true" width="500">
 
 ## MS Excel
-<b>Microsoft & COursera: Preparing Data for Analysis with Microsoft Excel / October 2023</b><br> 
+<b>Microsoft & Coursera: Preparing Data for Analysis with Microsoft Excel / October 2023</b><br> 
 A part of the Microsoft Power BI Data Analyst Professional Certificate learning path.<br>
 <img src="https://github.com/jusjag/certificates/blob/main/MS-PreparingDataExcel.png" width="500">
 
