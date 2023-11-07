@@ -71,10 +71,18 @@ Self-paced online course covering SQL basics. (<a href="https://devgym.oracle.co
 <img src="https://github.com/jusjag/certificates/blob/main/Oracle%20SQL%20Dev%20Gym.png?raw=true" width="500">
 <br><br>
 ## Power BI & DAX
-<b>Microsoft & Coursera: Harnessing The Power Of Data WIth Power BI / October 2023</b><br>
+<b>Microsoft & Coursera: Harnessing The Power Of Data With Power BI / October 2023</b><br>
 A part of the Microsoft Power BI Data Analyst Professional Certificate learning path.<br>
 <img src="https://github.com/jusjag/certificates/blob/main/MS-PoD.png" width="500">
-
+<br>
+<b>Microsoft & Coursera: Data Modeling in Power BI / October 2023</b><br>
+A part of the Microsoft Power BI Data Analyst Professional Certificate learning path.<br>
+<img src="https://github.com/jusjag/certificates/blob/main/MS-DataModeling.png" width="500">
+<br>
+<b>Microsoft & Coursera: Data Analysis and Visualization with Power BI / October 2023</b><br>
+A part of the Microsoft Power BI Data Analyst Professional Certificate learning path.<br>
+<img src="https://github.com/jusjag/certificates/blob/main/MS-DataAnalysisVisualization.png" width="500">
+<br>
 <b>Knowledge Accelerators: From Excel to Power BI (Coursera) / October 2023</b><br>
 Course type: self-paced course including: data import and cleaning in Power Query, working in Power BI visualizations, creating and sharing Dashboards.<br>
 Knowledge check: Yes, 5 graded tests.<br>
