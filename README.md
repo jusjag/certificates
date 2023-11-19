@@ -20,23 +20,22 @@ My current goal is to prepare and to pass the Microsoft Power BI Data Analyst (P
 <b>Datacamp certified Associate Data Analyst / October 2023</b><br>
 #1 Data Analysis certification by Forbes!<br>
 The certification required not only to pass timed theoritical exam, but also submit written report showing technical skills to clean data, build appropiate visializations and answer business problems.<br>
+<i>'To get certified as a Data Analyst Associate, this candidate had to demonstrate that they have the knowledge, skills, and abilities to succeed at the entry level in this role.'</i> - see more details at <a href="https://www.datacamp.com/certificate/DAA0019289008590">DataCamp.</a><br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/Datacamp_DA.png?raw=true" width="500">
 <br><br>
 <b>IBM Skillsbud - Data Fundamentals / May 2023</b><br>
 Self-paced online course (~7 hours).<br>
-Knowledge check: yes, theory tests after each chapter.<br>
 <i>'This credential earner demonstrates knowledge of data analytics concepts, methodologies and applications of data science, and the tools and programming languages used in the data ecosystem. The individual has a conceptual understanding of how to clean, refine, and visualize data using IBM Watson Studio. The earner is aware of the job outlook in data and is familiar with the skills required for success in various roles in the domain.'</i><br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/IBM_data_fundamentals.png?raw=true" width="500">
 
 ## MS Excel
 <b>Microsoft & Coursera: Preparing Data for Analysis with Microsoft Excel / October 2023</b><br> 
-A part of the Microsoft Power BI Data Analyst Professional Certificate learning path.<br>
+A part of the Microsoft Power BI Data Analyst Professional Certificate learning path. Covering Excel fundamentals, formulas and functions. For me it was quite challenging, because I was very used to polish version and syntax :) // See more at <a href="https://www.coursera.org/learn/preparing-data-for-analysis-with-microsoft-excel?specialization=microsoft-power-bi-data-analyst">Coursera</a>.<br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/MS-PreparingDataExcel.png" width="500">
 
 ## Power Query
 <b>Microsoft & Coursera: Extract, Transform and Load Data in Power BI / October 2023</b><br>
-A part of the Microsoft Power BI Data Analyst Professional Certificate learning path.<br>
-Despite having "Power BI"in its name, the course focused mainly on using Power Query, setting data sources, transforming and cleaning data, identifying anomalies and more.<br>
+A part of the Microsoft Power BI Data Analyst Professional Certificate learning path. Despite having "Power BI" in its name, the course focused mainly on using Power Query, setting data sources, transforming and cleaning data, identifying anomalies and more. // See more at <a href="https://www.coursera.org/learn/extract-transform-and-load-data-in-power-bi?specialization=microsoft-power-bi-data-analyst">Coursera</a>.<br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/MS-ETL.png" width="500">
 <br><br>
 <b>Polish entrepreneurship foundation / June-July 2023</b><br>
@@ -50,7 +49,7 @@ Click on image to enlarge (descriptions in polish only).<br><br>
 
 ## SQL
 <b>SQL from basics Kickstarter Course</b> from <b>Code First Girls / May - July 2023</b><br>
-8-week course of online classes covering all SQL basics, with own project including: inventing, creating and populating own database, running some analytic queries, creating a view, a function and stored procedure. Ended with mandatory project live presentation (in english).<br>
+8-week course of online classes covering all SQL basics, with own project including: inventing, creating and populating own database, running some analytic queries, creating a view, a function and stored procedure. <b>Ended with mandatory live presentation (in english)</b>.<br>
 See my final project for this course <a href="https://github.com/jusjag/CodeFirstGirls_Formula1">HERE</a>.<br>
 <img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Kickstarter.png?raw=true" width="500">
 <br>
@@ -71,22 +70,22 @@ Self-paced online course covering SQL basics. (<a href="https://devgym.oracle.co
 <img src="https://github.com/jusjag/certificates/blob/main/Oracle%20SQL%20Dev%20Gym.png?raw=true" width="500">
 <br><br>
 ## Power BI & DAX
+Check my skills in action and see the reports I made: <a href="https://github.com/jusjag/ZlobkiGdansk">Daycare Facilities (in polish)</a> or <a href="https://github.com/jusjag/ZlobkiGdansk">HR Insights (in english)</a>.<br><br>
 <b>Microsoft & Coursera: Harnessing The Power Of Data With Power BI / October 2023</b><br>
-A part of the Microsoft Power BI Data Analyst Professional Certificate learning path.<br>
+A part of the Microsoft Power BI Data Analyst Professional Certificate learning path. Covering such skills as "how to recognize and use the key data analysis components of Microsoft Power BI, describe the different stages in the data analysis process that result in data-driven decisions" // See more at <a href="https://www.coursera.org/learn/harnessing-the-power-of-data-with-power-bi?specialization=microsoft-power-bi-data-analyst">Coursera</a>.<br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/MS-PoD.png" width="500">
-<br>
+<br><br>
 <b>Microsoft & Coursera: Data Modeling in Power BI / October 2023</b><br>
-A part of the Microsoft Power BI Data Analyst Professional Certificate learning path.<br>
+A part of the Microsoft Power BI Data Analyst Professional Certificate learning path. Covering topics like database schemas, DAX calculations or optimizing performance in the Power BI model. // See more at <a href="https://www.coursera.org/learn/data-modeling-in-power-bi?specialization=microsoft-power-bi-data-analyst>Coursera</a>.<br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/MS-DataModeling.png" width="500">
-<br>
+<br><br>
 <b>Microsoft & Coursera: Data Analysis and Visualization with Power BI / October 2023</b><br>
-A part of the Microsoft Power BI Data Analyst Professional Certificate learning path.<br>
+A part of the Microsoft Power BI Data Analyst Professional Certificate learning path, focused directly on choosing the right visualizations and setting them up in Power BI. // See more at <a href="https://www.coursera.org/learn/data-analysis-and-visualization-with-power-bi?specialization=microsoft-power-bi-data-analyst#modules">Coursera</a><br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/MS-DataAnalysisVisualization.png" width="500">
-<br>
+<br><br>
 <b>Knowledge Accelerators: From Excel to Power BI (Coursera) / October 2023</b><br>
-Course type: self-paced course including: data import and cleaning in Power Query, working in Power BI visualizations, creating and sharing Dashboards.<br>
-Knowledge check: Yes, 5 graded tests.<br>
-Did I say I learn for the skill, not for the certificate? Well, course is an exception :) In fact, I DIDN'T DO this course, but I used its graded assignments to check my knowledge and find fields for improvement. It turned out that I passed all of these assessments without much trouble.<br>
+Self-paced course including: data import and cleaning in Power Query, working in Power BI visualizations, creating and sharing Dashboards.<br>
+Did I say I learn for the skill, not for the certificate? Well, this one is an exception :) In fact, I DIDN'T DO this course, but I used its graded assignments to check my knowledge and find fields for improvement. It turned out that I passed all of these assessments without much trouble.<br>
 <br>
 <img src="https://github.com/jusjag/certificates/blob/main/Coursera_excel_powerBI.png" width="400">
 <br><br>
@@ -97,7 +96,6 @@ Self-paced online course including DAX basics as calculated columns, measures, v
 
 ## Tableau
 5 hour self-pace course from Simplilearn (<a href="https://www.simplilearn.com/learn-tableau-online-free-course-skillup?tag=tableau%20training">website</a>).<br>
-Some simple questions after each chapter.<br>
 Skills in practice: see my project at <a href="https://public.tableau.com/app/profile/justyna5640/viz/RowerowyGdask2013-2023/RowerowyGdansk">Tableau Public</a> or go to my <a href="https://github.com/jusjag/RowerowyGdansk">GitHub project page</a> (this one is in polish only).<br>
 <img src="https://github.com/jusjag/certificates/blob/main/SkillUp%20Tableau.png?raw=true" width="500">
 <br>
