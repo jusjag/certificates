@@ -48,23 +48,28 @@ Click on image to enlarge (descriptions in polish only).<br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/PowerQuery5.png" width="300">
 
 ## SQL
+<b>SQL Assessment</b> at <b>LearnSQL / November 2023</b><br>
+Online test comprising several hands-on tasks, from basic queries to complex reports.<br>
+<img src="https://github.com/jusjag/certificates/blob/main/LearnSQL_wykres.png?raw=true" width="500">
+<img src="https://github.com/jusjag/certificates/blob/main/LearnSQL_certyfikat.png?raw=true" width="500">
+<br><br>
 <b>SQL from basics Kickstarter Course</b> from <b>Code First Girls / May - July 2023</b><br>
 8-week course of online classes covering all SQL basics, with own project including: inventing, creating and populating own database, running some analytic queries, creating a view, a function and stored procedure. <b>Ended with mandatory live presentation (in english)</b>.<br>
 See my final project for this course <a href="https://github.com/jusjag/CodeFirstGirls_Formula1">HERE</a>.<br>
 <img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Kickstarter.png?raw=true" width="500">
-<br>
-<b>Intro to Data Sprint & Challenge</b> from <b>Cofe Forst Girls</b><br>
-Short online course & project from Code First Girls. Much much more simple than the course above, but I used it as a quick practice and project inspiration.<br> The course also included inventing, creating and populating own database, and running some basic analytic queries.
-<img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Sprint.png?raw=true" width="400">
-<img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Challenge.png?raw=true" width="400">
-<br>
-<br>
+<br><br>
 <b>Hackerrank Skills Certification Test / July 2023 </b>(<a href="https://www.hackerrank.com/skills-verification/sql_intermediate">website</a>)<br>
 Basic: Practical, timed exam covering knowledge and practical use of simple queries, relationships, and aggregators.<br>
 Intermediate: Practical, timed exam covering knowledge and practical use of complex joins, unions, and sub-queries.<br>
 <img src="https://github.com/jusjag/certificates/blob/main/HackerRank%20Basic%20SQL.png?raw=true" width="400">
 <img src="https://github.com/jusjag/certificates/blob/main/HackerRank%20Intermediate%20SQL.png?raw=true" width="400">
 <br><br>
+<b>Intro to Data Sprint & Challenge</b> from <b>Cofe Forst Girls</b><br>
+Short online course & project from Code First Girls. Much much more simple than the course above, but I used it as a quick practice and project inspiration.<br> The course also included inventing, creating and populating own database, and running some basic analytic queries.
+<img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Sprint.png?raw=true" width="400">
+<img src="https://github.com/jusjag/certificates/blob/main/CFG%20SQL%20Challenge.png?raw=true" width="400">
+<br>
+<br>
 <b>Oracle Databases for Developers: Foundations / March 2023</b> <br>
 Self-paced online course covering SQL basics. (<a href="https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html">website</a>)<br>
 <img src="https://github.com/jusjag/certificates/blob/main/Oracle%20SQL%20Dev%20Gym.png?raw=true" width="500">
