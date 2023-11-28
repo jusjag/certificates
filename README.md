@@ -50,8 +50,8 @@ Click on image to enlarge (descriptions in polish only).<br><br>
 ## SQL
 <b>SQL Assessment</b> at <b>LearnSQL / November 2023</b><br>
 Online test comprising several hands-on tasks, from basic queries to complex reports.<br>
+<img src="https://github.com/jusjag/certificates/blob/main/LearnSQL_certyfikat.png?raw=true" width="500"><br>
 <img src="https://github.com/jusjag/certificates/blob/main/LearnSQL_wykres.png?raw=true" width="500">
-<img src="https://github.com/jusjag/certificates/blob/main/LearnSQL_certyfikat.png?raw=true" width="500">
 <br><br>
 <b>SQL from basics Kickstarter Course</b> from <b>Code First Girls / May - July 2023</b><br>
 8-week course of online classes covering all SQL basics, with own project including: inventing, creating and populating own database, running some analytic queries, creating a view, a function and stored procedure. <b>Ended with mandatory live presentation (in english)</b>.<br>
@@ -81,7 +81,7 @@ A part of the Microsoft Power BI Data Analyst Professional Certificate learning 
 <img src="https://github.com/jusjag/certificates/blob/main/MS-PoD.png" width="500">
 <br><br>
 <b>Microsoft & Coursera: Data Modeling in Power BI / October 2023</b><br>
-A part of the Microsoft Power BI Data Analyst Professional Certificate learning path. Covering topics like database schemas, DAX calculations or optimizing performance in the Power BI model. // See more at <a href="https://www.coursera.org/learn/data-modeling-in-power-bi?specialization=microsoft-power-bi-data-analyst>Coursera</a>.<br><br>
+A part of the Microsoft Power BI Data Analyst Professional Certificate learning path. Covering topics like database schemas, DAX calculations or optimizing performance in the Power BI model. // See more at <a href="https://www.coursera.org/learn/data-modeling-in-power-bi?specialization=microsoft-power-bi-data-analyst">Coursera</a>.<br><br>
 <img src="https://github.com/jusjag/certificates/blob/main/MS-DataModeling.png" width="500">
 <br><br>
 <b>Microsoft & Coursera: Data Analysis and Visualization with Power BI / October 2023</b><br>
